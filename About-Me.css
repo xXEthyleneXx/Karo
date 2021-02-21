@@ -17,7 +17,6 @@
   margin-top: 71px;
   margin-bottom: 55px;
   min-height: 701px;
-  height: auto;
 }
 
 .u-section-1 .u-tab-link-1 {
@@ -86,6 +85,10 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 760px;
+  }
+
+  .u-section-1 .u-tabs-1 {
+    height: auto;
   }
 
   .u-section-1 .u-text-3 {

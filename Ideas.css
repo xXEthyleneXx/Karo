@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 653px;
+  min-height: 677px;
 }
 
 .u-section-1 .u-text-1 {
@@ -17,7 +17,6 @@
   margin-top: 40px;
   margin-bottom: 40px;
   min-height: 388px;
-  height: auto;
 }
 
 .u-section-1 .u-tab-link-1 {
@@ -94,7 +93,7 @@
 .u-section-1 .u-text-3 {
   font-weight: 400;
   font-family: Atomic Age;
-  margin: 51px 0 0;
+  margin: 0 -30px;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -131,7 +130,7 @@
 .u-section-1 .u-text-5 {
   font-weight: 400;
   font-family: Atomic Age;
-  margin: 47px 17px 0;
+  margin: 0 -30px;
 }
 
 .u-section-1 .u-tab-pane-5 {
@@ -146,12 +145,16 @@
 .u-section-1 .u-text-6 {
   font-weight: 400;
   font-family: Atomic Age;
-  margin: 0 73px;
+  margin: -30px -30px 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 538px;
+    min-height: 558px;
+  }
+
+  .u-section-1 .u-tabs-1 {
+    height: auto;
   }
 
   .u-section-1 .u-btn-1 {
@@ -166,6 +169,11 @@
 
   .u-section-1 .u-btn-2 {
     font-weight: 400;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-btn-3 {
@@ -185,7 +193,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 427px;
   }
 
   .u-section-1 .u-btn-1 {
@@ -215,7 +223,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 309px;
+    min-height: 320px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -270,7 +278,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 195px;
+    min-height: 201px;
   }
 
   .u-section-1 .u-btn-1 {

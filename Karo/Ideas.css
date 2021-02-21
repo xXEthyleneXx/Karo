@@ -1,0 +1,299 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/wsae-min.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 653px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Atomic Age;
+  animation-duration: 1000ms;
+  width: 242px;
+  margin: 132px auto 0;
+}
+
+.u-section-1 .u-tabs-1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  min-height: 388px;
+  height: auto;
+}
+
+.u-section-1 .u-tab-link-1 {
+  background-image: none;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-2 {
+  background-image: none;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-3 {
+  background-image: none;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-4 {
+  background-image: none;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-5 {
+  background-image: none;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  border-style: solid;
+  animation-duration: 1000ms;
+  background-image: none;
+  font-weight: 700;
+  font-family: Atomic Age;
+  font-style: italic;
+  text-decoration: underline !important;
+  font-size: 2.25rem;
+  margin: 0 auto;
+  padding: 0 17px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: 40px 0 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  background-image: none;
+  font-style: italic;
+  text-decoration: underline !important;
+  animation-duration: 1000ms;
+  font-family: Atomic Age;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  margin: 20px auto 0;
+  padding: 1px 30px 2px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: 51px 0 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  width: 758px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-tab-pane-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-style: italic;
+  text-decoration: underline !important;
+  font-family: Atomic Age;
+  font-size: 2.25rem;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: 47px 17px 0;
+}
+
+.u-section-1 .u-tab-pane-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: 0 73px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 308px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -330px;
+    margin-left: 56px;
+    margin-right: 56px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-weight: 400;
+  }
+
+  .u-section-1 .u-btn-3 {
+    font-weight: 400;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 14px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 404px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -426px;
+    margin-left: 42px;
+    margin-right: 42px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 660px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 11px;
+    margin-left: 11px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 45px;
+    margin-right: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 309px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 500px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -522px;
+    margin-left: 33px;
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 9px;
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 195px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 820px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -842px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 6px;
+    margin-left: 6px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+}

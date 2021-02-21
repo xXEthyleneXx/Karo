@@ -1,0 +1,142 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/wsae-min.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1012px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Atomic Age;
+  animation-duration: 1000ms;
+  width: 490px;
+  margin: 132px auto 0;
+}
+
+.u-section-1 .u-tabs-1 {
+  margin-top: 71px;
+  margin-bottom: 55px;
+  min-height: 701px;
+  height: auto;
+}
+
+.u-section-1 .u-tab-link-1 {
+  font-weight: 700;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-2 {
+  font-weight: 700;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-3 {
+  font-weight: 700;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-tab-link-4 {
+  font-weight: 700;
+  font-family: Atomic Age;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0 -30px -30px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: 0 20px 0 -20px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 400;
+  font-family: Atomic Age;
+  margin: auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 582px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 437px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 302px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}
